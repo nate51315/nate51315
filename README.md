@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" class="" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" class="" width="210"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,6 +16,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nate51315&style=flat-square&color=blue" alt=""/>
+  <img src="https://img.shields.io/badge/Portfolio Website-C6FF00" alt=""/>
 </div>
 
 <!--
