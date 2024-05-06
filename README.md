@@ -1,6 +1,8 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nate51315.nate51315" /> -->
 <img align="right" src="https://komarev.com/ghpvc/?username=nate51315&style=flat-square&color=1E84EE" alt="" />
 
+<br/>
+
 <div id="header" align="center">
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hello!;+I'm+Nate;" />
@@ -16,9 +18,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-1E84EE?style=for-the-badge&logo=todoist&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<br/>
 
 <!-- <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio Website-C6FF00" alt=""/></a>
